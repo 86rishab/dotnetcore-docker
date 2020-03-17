@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo.NetCore</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.NetCore.Controllers.ValuesController.Get">
+            <summary>
+            This operation gets the values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerDemo.NetCore.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            configure method
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
