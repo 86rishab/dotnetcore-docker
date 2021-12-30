@@ -12,4 +12,4 @@ docker build -t dotnetcore-docker-test .
 
 docker run command
 ==================
-docker run -p 80:56884 --name dotnetcore-docker-test dotnetcore-docker-test
+docker run -p 8080:56884 --name dotnetcore-docker-test dotnetcore-docker-test
